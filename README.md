@@ -59,6 +59,12 @@
     </a>
 </div>
 
+## 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajan0323&show_icons=true&theme=radical" alt="Rajan's GitHub Stats"/>
+</div>
+
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/rajankumar_2021?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
 </div>
