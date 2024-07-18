@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%246SEA47&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rajan+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rajan+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
 </div>
 
 <p align="center">
@@ -62,12 +62,19 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajan0323&show_icons=true&theme=radical" alt="Rajan's GitHub Stats"/>
+     <a href="https://awesome-github-stats.azurewebsites.net/user-stats/rajan0323?cardType=level&preferLogin=false">
+    <img  alt="Rajan Kumar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rajan0323?cardType=level&preferLogin=false" />
+  </a>
 </div>
+
+
+## 📝 LeetCode Stats
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/rajankumar_2021?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
 </div>
+
+## 📚 GeeksforGeeks Profile
 
 <div align="center">
     <a href="https://www.geeksforgeeks.org/user/rajankumsafq/" target="_blank" rel="noreferrer">
@@ -75,6 +82,9 @@
     </a>
 </div>
 
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
 </div>
+
