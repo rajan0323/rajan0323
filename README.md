@@ -81,6 +81,11 @@
         <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
     </a>
 </div>
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  </a>
+</div>
 
 ## 🐍 GitHub Contribution Snake
 
