@@ -1,16 +1,13 @@
 <p align="center">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="Banner">
 </p>
-
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rajan+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
 </div>
-
 <p align="center">
     <br>Visitor count<br>
     <img src="https://profile-counter.glitch.me/rajan0323/count.svg" />
 </p>
-
 <div align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -58,39 +55,29 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </div>
-
-## 📈 GitHub Stats
-
+📈 GitHub Stats
 <div align="center">
-     <a href="https://awesome-github-stats.azurewebsites.net/user-stats/rajan0323?cardType=level&preferLogin=false">
-    <img  alt="Rajan Kumar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rajan0323?cardType=level&preferLogin=false" />
-  </a>
-</div>
-
-## 📝 LeetCode Stats
-
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/rajankumar_2021?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
-</div>
-
-## 📚 GeeksforGeeks Profile
-
-<div align="center">
-    <a href="https://www.geeksforgeeks.org/user/rajankumsafq/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
+    <a href="https://awesome-github-stats.azurewebsites.net/user-stats/rajan0323?cardType=level&preferLogin=false">
+        <img alt="Rajan Kumar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rajan0323?cardType=level&preferLogin=false" />
     </a>
 </div>
-
-## GSSOC(24) Badge 🪶
-
+📝 LeetCode Stats
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/rajankumar_2021?ext=heatmap" alt="LeetCode Stats"/>
+</div>
+📚 GeeksforGeeks Profile
+<div align="center">
+    <a href="https://www.geeksforgeeks.org/user/rajankumsafq/" target="_blank" rel="noreferrer">
+        <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=rajankumsafq" alt="GFG Profile" />
+    </a>
+</div>
+GSSOC(24) Badge 🪶
 <div align="center">
     <a href="https://gssoc.girlscript.tech/leaderboard">
         <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
     </a>
 </div>
-
-## 🐍 GitHub Contribution Snake
-
+🐍 GitHub Contribution Snake
 <div align="center">
     <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
 </div>
